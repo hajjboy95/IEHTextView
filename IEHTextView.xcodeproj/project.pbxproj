@@ -14,6 +14,7 @@
 		EC1FBE1C1D0DAB97004ED412 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC1FBE1A1D0DAB97004ED412 /* LaunchScreen.storyboard */; };
 		EC1FBE271D0DAB97004ED412 /* IEHTextViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC1FBE261D0DAB97004ED412 /* IEHTextViewTests.swift */; };
 		EC1FBE321D0DAB97004ED412 /* IEHTextViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC1FBE311D0DAB97004ED412 /* IEHTextViewUITests.swift */; };
+		EC1FBE401D0DABAB004ED412 /* IEHTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC1FBE3F1D0DABAB004ED412 /* IEHTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EC1FBE2D1D0DAB97004ED412 /* IEHTextViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IEHTextViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC1FBE311D0DAB97004ED412 /* IEHTextViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IEHTextViewUITests.swift; sourceTree = "<group>"; };
 		EC1FBE331D0DAB97004ED412 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC1FBE3F1D0DABAB004ED412 /* IEHTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IEHTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				EC1FBE111D0DAB97004ED412 /* AppDelegate.swift */,
+				EC1FBE3F1D0DABAB004ED412 /* IEHTextView.swift */,
 				EC1FBE131D0DAB97004ED412 /* ViewController.swift */,
 				EC1FBE151D0DAB97004ED412 /* Main.storyboard */,
 				EC1FBE181D0DAB97004ED412 /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			files = (
 				EC1FBE141D0DAB97004ED412 /* ViewController.swift in Sources */,
 				EC1FBE121D0DAB97004ED412 /* AppDelegate.swift in Sources */,
+				EC1FBE401D0DABAB004ED412 /* IEHTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
