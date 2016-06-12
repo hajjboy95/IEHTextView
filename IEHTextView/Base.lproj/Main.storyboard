@@ -20,7 +20,7 @@
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Tah-23-n96" customClass="IEHTextView" customModule="IEHTextView" customModuleProvider="target">
                                 <rect key="frame" x="22" y="217" width="556" height="166"/>
-                                <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="394" id="LaI-3a-1Ke"/>
                                     <constraint firstAttribute="height" constant="166" id="ku1-WM-Oob"/>
